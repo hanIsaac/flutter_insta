@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513678350537",
+    "firebase_url": "https://instagram-clon-fc420.firebaseio.com",
+    "project_id": "instagram-clon-fc420",
+    "storage_bucket": "instagram-clon-fc420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513678350537:android:286a3127cc069404",
+        "android_client_info": {
+          "package_name": "insta.han.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513678350537-1gongder8m783eave39furi56k1pibti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "insta.han.insta",
+            "certificate_hash": "814929ba6a72038eb1211c082963837249ff5af8"
+          }
+        },
+        {
+          "client_id": "513678350537-i659881cgphalfn3o91majbirm68rurg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1kXEhbNgZH7cBKcYWcLzGPMm_wE0s22U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513678350537-i659881cgphalfn3o91majbirm68rurg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
